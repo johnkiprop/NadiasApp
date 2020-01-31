@@ -1,0 +1,4 @@
+#Thu Nov 28 17:23:55 EAT 2019
+base.0=D\:\\Github\\Nadias\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
